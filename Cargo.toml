@@ -1,0 +1,11 @@
+[package]
+name = "autoplate"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+suppaftp = "5.3"
+quick-xml = "0.31"
+tempfile = "3.8"
+zip = "0.6"
